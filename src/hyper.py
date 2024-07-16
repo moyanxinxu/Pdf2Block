@@ -1,2 +1,2 @@
 class hp:
-    splited_images_path = "./splited_images/"
+    splited_images_path = "./images/original_images"
